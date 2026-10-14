@@ -1,0 +1,9 @@
+Espresso,Coffee,3.00
+Latte,Coffee,4.25
+Cappuccino,Coffee,4.00
+Green Tea,Tea,2.75
+Chai Latte,Tea,3.75
+Blueberry Muffin,Pastry,2.95
+Croissant,Pastry,3.25
+Turkey Sandwich,Sandwich,6.50
+Veggie Wrap,Sandwich,5.95
